@@ -1,0 +1,11 @@
+D:\Titipan Bos\CoffeMechine\bin\Debug\netcoreapp3.1\CoffeMechine.exe
+D:\Titipan Bos\CoffeMechine\bin\Debug\netcoreapp3.1\CoffeMechine.deps.json
+D:\Titipan Bos\CoffeMechine\bin\Debug\netcoreapp3.1\CoffeMechine.runtimeconfig.json
+D:\Titipan Bos\CoffeMechine\bin\Debug\netcoreapp3.1\CoffeMechine.runtimeconfig.dev.json
+D:\Titipan Bos\CoffeMechine\bin\Debug\netcoreapp3.1\CoffeMechine.dll
+D:\Titipan Bos\CoffeMechine\bin\Debug\netcoreapp3.1\CoffeMechine.pdb
+D:\Titipan Bos\CoffeMechine\obj\Debug\netcoreapp3.1\CoffeMechine.csprojAssemblyReference.cache
+D:\Titipan Bos\CoffeMechine\obj\Debug\netcoreapp3.1\CoffeMechine.AssemblyInfoInputs.cache
+D:\Titipan Bos\CoffeMechine\obj\Debug\netcoreapp3.1\CoffeMechine.AssemblyInfo.cs
+D:\Titipan Bos\CoffeMechine\obj\Debug\netcoreapp3.1\CoffeMechine.dll
+D:\Titipan Bos\CoffeMechine\obj\Debug\netcoreapp3.1\CoffeMechine.pdb
